@@ -1,0 +1,13 @@
+# ninja log v5
+0	911	1648417678462075971	CMakeFiles/MultiplicacaoMatricialPThread.dir/main.cpp.o	6da63f9a2479053e
+913	1087	1648417678635077370	MultiplicacaoMatricialPThread	6983eee9f05264ea
+2	871	1648418007434734655	CMakeFiles/MultiplicacaoMatricialPThread.dir/main.cpp.o	6da63f9a2479053e
+871	1063	1648418007621736166	MultiplicacaoMatricialPThread	6983eee9f05264ea
+1	1027	1648421421280204803	CMakeFiles/MultiplicacaoMatricialPThread.dir/main.cpp.o	6da63f9a2479053e
+1027	1235	1648421421483206427	MultiplicacaoMatricialPThread	6983eee9f05264ea
+2	1061	1648421629686871337	CMakeFiles/MultiplicacaoMatricialPThread.dir/main.cpp.o	6da63f9a2479053e
+1061	1253	1648421629873872832	MultiplicacaoMatricialPThread	6983eee9f05264ea
+1	1323	1648421701639446729	CMakeFiles/MultiplicacaoMatricialPThread.dir/main.cpp.o	6da63f9a2479053e
+1323	1560	1648421701871448584	MultiplicacaoMatricialPThread	6983eee9f05264ea
+1	933	1648421788036137620	CMakeFiles/MultiplicacaoMatricialPThread.dir/main.cpp.o	6da63f9a2479053e
+934	1127	1648421788225139132	MultiplicacaoMatricialPThread	6983eee9f05264ea

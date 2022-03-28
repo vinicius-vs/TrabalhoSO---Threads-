@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MultiplicacaoPosicionaPThread",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MultiplicacaoPosicionaPThread::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultiplicacaoPosicionaPThread-Debug-1e3af38e00b35cd3ebb2.json",
+					"name" : "MultiplicacaoPosicionaPThread",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vinicius/CLionProjects/MultiplicacaoPosicionaPThread/cmake-build-debug",
+		"source" : "/home/vinicius/CLionProjects/MultiplicacaoPosicionaPThread"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

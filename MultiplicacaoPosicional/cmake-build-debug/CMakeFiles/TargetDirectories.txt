@@ -1,0 +1,3 @@
+/home/vinicius/CLionProjects/MultiplicacaoPosicional/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vinicius/CLionProjects/MultiplicacaoPosicional/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vinicius/CLionProjects/MultiplicacaoPosicional/cmake-build-debug/CMakeFiles/MultiplicacaoPosicional.dir
