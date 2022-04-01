@@ -1,0 +1,3 @@
+/home/vinicius/CLionProjects/SomaArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vinicius/CLionProjects/SomaArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vinicius/CLionProjects/SomaArray/cmake-build-debug/CMakeFiles/SomaArray.dir
